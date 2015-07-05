@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "UINavigationController-StatusBar"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "UINavigationController with overloaded methods to provide child status bar state"
 
   s.description  = <<-DESC
