@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/k06a/UINavigationController-StatusBar.git", :commit => "#{s.version}" }
+  s.source       = { :git => "https://github.com/k06a/UINavigationController-StatusBar.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
